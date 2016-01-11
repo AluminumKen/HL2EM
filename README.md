@@ -53,3 +53,5 @@ If it has not been asked for, create a new issue with at least the following inf
  - Why we should do this feature rather than doing some other feature on the list
 
 Remember that just because you ask for a feature improvement doesn't mean we'll get to it. We're mostly going to be focused on existing bugs rather than enhancing these games. That being said, it does make a difference to know what you want here.  Be clear. Be concise.
+
+This README is forked from [ValveSoftware/Source-1-Games](https://github.com/ValveSoftware/Source-1-Games/blob/master/README.md)
