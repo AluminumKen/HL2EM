@@ -1,5 +1,5 @@
-# hl2em
-This is the README for the Half-Life 2 Enhancement Mod, a mod for Source Engine.
+# Half-Life 2 Enhancement Mod
+This is the README for Half-Life 2 Enhancement Mod, a mod for Source Engine.
 
 Please use this repository to report bugs and feature requests for the mod.
 
